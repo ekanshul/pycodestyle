@@ -1,6 +1,14 @@
 Changelog
 =========
 
+2.15.1 (unreleased)
+-------------------
+
+Changes:
+
+* E501: honor ``--indent-size`` when measuring tab-indented lines.
+  Issue #1189.
+
 2.15.0 (2026-09-22)
 -------------------
 
